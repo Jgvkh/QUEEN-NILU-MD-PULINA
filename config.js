@@ -14,18 +14,18 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;E2gz0bLK#KfTqBWoHySC_bMvTkNGO3m9haJfBCGjwDBzyB_t2QjM' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://pulina_user:C1yJ4R94Ugrl7GO9vmLgMeLSeir8yxoB@dpg-cl6vjr8icrhc73cv2o80-a.frankfurt-postgres.render.com/pulina'
 
  
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94779554677'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'Hasuwa-X'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -57,7 +57,7 @@ global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
 
 global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
 
-global.ALIVE_MESSAGE = '' // Set Alive Message
+global.ALIVE_MESSAGE = 'Hey i am not 😑 dead' // Set Alive Message
 
 global.MAX_SIZE = '500' // Bot Uloading Max size 
 
@@ -76,7 +76,7 @@ global.GROUP_LINK = 'https://chat.whatsapp.com/IRdyJY5P4sF5BhtP5PIdHH' // ur gro
 
 /* 18 + Download Settings */
 
-global.SEX_DL = 'false' // 18 + video dl
+global.SEX_DL = 'true' // 18 + video dl
 
 /* AUTO REPLY SETTINGS */
 
